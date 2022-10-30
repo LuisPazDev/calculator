@@ -1,0 +1,45 @@
+*{
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-logo{
+  width: 100%;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.luispazdev-logo{
+  height: 150px;
+}
+
+.container-calculator{
+  width: 90%;
+  padding: 14px;
+  background-color: black;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+
+.row{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

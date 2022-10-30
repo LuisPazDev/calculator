@@ -1,0 +1,19 @@
+.btn{
+  height: 80px;
+  font-size: 1.6em;
+  display: flex;
+  border-radius: 50px;
+  flex: 1;
+  background-color: rgb(117, 11, 110);
+  margin-top: 8px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border:2px solid white;
+  cursor: pointer;
+  user-select: none;
+}
+
+.btn:hover{
+  background-color: rgb(113, 85, 139);
+}
